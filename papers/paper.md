@@ -5,7 +5,7 @@
 
 | paper                            | note      | summary      |
 |----------------------------------|-----------|--------------|
-| COMMA                            | [note](../note/central-v_note.md)          |              |
+| COMMA                            | [note](/note/central-v_note.md)          |              |
 | Centrla-V                        |   [note]()        |              |
 | IAC                              |   [note]()       |              |
 | IQL                              |   [note]()         |              |
